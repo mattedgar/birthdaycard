@@ -13,7 +13,7 @@ body{
     -webkit-animation:1s blinker linear infinite;
     -moz-animation:1s blinker linear infinite;
     color: red;
-    font-size:larger;
+    font-size: larger;
 }
 
 @-moz-keyframes blinker
